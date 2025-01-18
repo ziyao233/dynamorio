@@ -1,5 +1,7 @@
 # DynamoRIO
 
+This is a test!
+
 ![DynamoRIO logo](http://www.burningcutlery.com/images/dynamorio/drlogo.png?)
 
 ## About DynamoRIO
